@@ -2,9 +2,6 @@
 
 Dataset: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-Class distribution: 357 benign, 212 malignant
-
-
 ## Algorithms 
 
 1. K-Nearest Neighbor (KNN)
@@ -63,4 +60,4 @@ Class distribution: 357 benign, 212 malignant
 
 <hr />
 
-XG Boost performs the best.
+XG Boost performs the best! 🎉🎉🎉
